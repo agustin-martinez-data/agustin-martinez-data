@@ -12,11 +12,11 @@
 
 ## 🛠️ Stack Tecnológico y Habilidades
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Power_Query-Lenguaje_M-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/DAX-Modelado-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" alt="DAX">
-  <img src="https://img.shields.io/badge/WFM-Operations-FF6F00?style=for-the-badge&logo=opsgenie&logoColor=white" alt="WFM">
-  <img src="https://img.shields.io/badge/English-A2%2FB1-02569B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Excel-Avanzado-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power_Query-Lenguaje_M-005A9E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query">
+  <img src="https://img.shields.io/badge/DAX-Modelado-2D3748?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
+  <img src="https://img.shields.io/badge/WFM-Operations-1A202C?style=for-the-badge&logo=opsgenie&logoColor=white" alt="WFM">
+  <img src="https://img.shields.io/badge/English-A2%2FB1-2B6CB0?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English">
 </p>
 
 ---
@@ -31,9 +31,9 @@
 ## 🌐 Conectemos
 <p align="center">
   <a href="https://www.linkedin.com/in/agustin-martinez-data-analyst">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:agustin.240790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
