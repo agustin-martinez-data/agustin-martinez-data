@@ -1,11 +1,12 @@
 <h1 align="center">¡Hola! Soy Agustín Martínez 👋</h1>
 <p align="center">
-  <b>Economista (UNAM) | Operations Data Analyst & WFM Specialist</b><br>
-  Transformando datos operativos y métricas complejas en decisiones estratégicas.
-</p>
-
+  
 <p align="center">
   <img src="banner" width="100%" alt="Banner Principal">
+</p>
+
+<b>Economista (UNAM) | Operations Data Analyst & WFM Specialist</b><br>
+  Transformando datos operativos y métricas complejas en decisiones estratégicas.
 </p>
 
 ---
