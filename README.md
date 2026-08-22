@@ -1,4 +1,4 @@
-<h2 align="center">¡Hola! Soy Agustín Martínez 👋</h2>
+<h1 align="center">¡Hola! Soy Agustín Martínez 👋</h1>
 <p align="center">
   
   
