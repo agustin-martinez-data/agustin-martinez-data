@@ -5,9 +5,12 @@
   <img src="banner" width="100%" alt="Banner Principal">
 </p>
 
-<b>Economista (UNAM) | Operations Data Analyst & WFM Specialist</b><br>
+---
+  <p align="center">
   Transformando datos operativos y métricas complejas en decisiones estratégicas.
-</p>
+
+</p> 
+  
 
 ---
 
