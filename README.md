@@ -1,18 +1,20 @@
-<h1 align="center">¡Hola! Soy Agustín Martínez 👋</h1>
+<h2 align="center">¡Hola! Soy Agustín Martínez 👋</h2>
 <p align="center">
   
-<p align="center">
+  
+  <p align="center">
   <img src="banner" width="100%" alt="Banner Principal">
 </p>
 
----
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
   <p align="center">
   Transformando datos operativos y métricas complejas en decisiones estratégicas.
-
 </p> 
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
   
 
----
 
 ## 🛠️ Stack Tecnológico y Habilidades
 <p align="center">
